@@ -2,6 +2,13 @@
 
 Build project using express, socket.io and deploy on Heroku
 
+
+## Documentation
+
+For more information about using this project
+
+[anonystick.com](https://anonystick.com)
+
 ## Running Locally
 
 ```js
@@ -30,8 +37,3 @@ or
 [![Project on Heroku](https://res.cloudinary.com/anonystick/image/upload/v1624440101/javascript/express-socketio-heroku.jpg)](https://express-socketio-room.herokuapp.com/)
 
 
-## Documentation
-
-For more information about using this project
-
-[anonystick.com](https://anonystick.com)
