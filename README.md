@@ -20,7 +20,7 @@ For more information about using this project
     $ node bin/www
 ```
 
-Your app should now be running on [localhost:3000]((http://localhost:3000/)).
+Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 ## Deploying to Heroku
 
